@@ -27,3 +27,13 @@ h1 {
 #countdown span {
     font-weight: bold;
 }
+
+.site-credit {
+    margin-top: 20px;
+    font-size: 0.8rem;
+    color: #777;
+}
+
+.site-credit a {
+    color: inherit;
+}
